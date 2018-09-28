@@ -1,4 +1,3 @@
-
 body
 {
     background-color: azure; /* change color according to background */
@@ -48,12 +47,8 @@ article {
 }
 
 h2{
-    text-align: center;
+    text-decoration-line: underline;
 }
-img
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-   width: 25%;
+h3{
+    text-decoration-line: underline;
 }
