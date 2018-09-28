@@ -12,6 +12,7 @@ a{
     color: white;
     text-align: center;
     padding: 14px 16px;
+    text-decoration-line: none;
 }
 
 a:hover{
@@ -21,7 +22,7 @@ a:hover{
 h1{
   
     width: 90%;
-    border: 1px solid white;
+    border: 1px solid transparent;
     padding: 25px;
     margin: 25px;
     text-align: center;
@@ -29,14 +30,14 @@ h1{
 h2
 {
     width: 90%;
-    border: 1px solid blue;
+    border: 1px solid transparent;
     padding: 10px;
     margin: auto;
     text-align: center;
 }
 p{
         width: 90%;
-    border: 1px solid white;
+    border: 1px solid transparent;
     padding: 25px;
     margin: 25px;
     text-align: left;
