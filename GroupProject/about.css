@@ -17,3 +17,20 @@ a{
 a:hover{
     background-color: #111;
 }
+
+h1{
+  
+    width: 90%;
+    border: 1px solid white;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+
+p{
+        width: 90%;
+    border: 1px solid white;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
