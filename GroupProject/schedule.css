@@ -1,0 +1,54 @@
+body
+{
+    background-color: azure; /* change color according to background */
+}
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #333; /* change color according to background */
+}
+
+a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration-line: none;
+}
+
+a:hover{
+    background-color: #111; /* change color according to background */
+}
+
+h1{
+  
+    width: 90%;
+    border: 1px solid white; /* change color according to background */
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    background-color: deepskyblue; /* change color */
+}
+ul{
+    list-style-position: inside;
+}
+article {
+    width: 70%;
+    border: 1px solid black; /* change color according to background */
+    padding: 25px;
+    margin: 25px;
+    text-align:justify;
+    color:cornsilk;
+    background-color: black; /* change color according to background */
+   
+}
+
+h2{
+    text-decoration-line: underline;
+}
+h3{
+    text-decoration-line: underline;
+}
