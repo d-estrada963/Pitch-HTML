@@ -27,7 +27,7 @@ a:hover{
 h1{
   
     width: 90%;
-    border: 1px solid white; /* change color according to background */
+    border: 1px solid transparent; /* change color according to background */
     padding: 25px;
     margin: 25px;
     text-align: center;
@@ -38,7 +38,7 @@ ul{
 }
 article {
     width: 70%;
-    border: 1px solid black; /* change color according to background */
+    border: 1px solid transparent; /* change color according to background */
     padding: 25px;
     margin: 25px;
     text-align:justify;
