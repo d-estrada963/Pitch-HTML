@@ -1,0 +1,43 @@
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #333;
+}
+
+a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+a:hover{
+    background-color: #111;
+}
+
+h1{
+  
+    width: 90%;
+    border: 1px solid white;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+}
+h2
+{
+    width: 90%;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+p{
+        width: 90%;
+    border: 1px solid white;
+    padding: 25px;
+    margin: 25px;
+    text-align: left;
+}
