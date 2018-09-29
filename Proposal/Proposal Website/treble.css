@@ -1,0 +1,65 @@
+body
+{
+    background-color: azure; /* change color according to background */
+}
+nav{
+    list-style-type: none;
+    margin: 25px;
+
+    overflow: hidden;
+    background: #333; /* change color according to background */
+}
+
+a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration-line: none;
+}
+
+a:hover:not(.active){
+    background-color: #111;
+}
+.active {
+    background-color: #42aaf4;
+}
+body{
+    background-image: url(bg.jpg);
+}
+h1{
+
+    border: 1px solid transparent; /* change color according to background */
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    background-image: url(935629e8f694e61.jpg); /* change color */
+    color:white;
+    font-weight: bold;
+    font-size: 48px;
+}
+ul{
+    list-style-position: inside;
+}
+article {
+
+    border: 1px solid transparent; /* change color according to background */
+    padding: 25px;
+    margin: 25px;
+    text-align:justify;
+    color:white;
+
+   
+}
+
+h2{
+    text-align: center;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 25%;
+}
