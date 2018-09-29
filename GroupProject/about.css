@@ -1,6 +1,6 @@
 nav{
     list-style-type: none;
-    margin: 0;
+    margin: 25px;
     padding: 0;
     overflow: hidden;
     background: #333;
@@ -20,21 +20,31 @@ a:hover{
 }
 
 h1{
-  
-    width: 90%;
+    margin: 0;
+    padding 0;
     border: 1px solid transparent;
     padding: 25px;
     margin: 25px;
     text-align: center;
+    background-image: url(935629e8f694e61.jpg);
+    color:white;
+    font-weight: bold;
 }
-h2
-{
-    width: 90%;
-    border: 1px solid transparent;
-    padding: 10px;
-    margin: auto;
-    text-align: center;
+
+article {
+    margin: 0;
+    padding 0;
+    border: 1px solid transparent; /* change color according to background */
+    padding: 25px;
+    margin: 25px;
+    text-align:justify;
+    color:cornsilk;
+    background-image: url(bg.jpg);
+    background-size: cover; /* change color according to background */
+ 
+   
 }
+
 p{
         width: 90%;
     border: 1px solid transparent;
