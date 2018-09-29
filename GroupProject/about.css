@@ -28,6 +28,8 @@ h1{
     margin: 25px;
     text-align: center;
     background-image: url(935629e8f694e61.jpg); /* change color */
+    color:white;
+    font-weight: bold;
 }
 
 article {
