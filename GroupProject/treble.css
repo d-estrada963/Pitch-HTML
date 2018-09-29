@@ -1,4 +1,3 @@
-
 body
 {
     background-color: azure; /* change color according to background */
@@ -26,24 +25,27 @@ a:hover{
 
 h1{
   
-    width: 90%;
+    margin: 0;
+    padding 0;
     border: 1px solid transparent; /* change color according to background */
     padding: 25px;
     margin: 25px;
     text-align: center;
-    background-color: deepskyblue; /* change color */
+    background-image: url(935629e8f694e61.jpg); /* change color */
 }
 ul{
     list-style-position: inside;
 }
 article {
-    width: 70%;
+    margin: 0;
+    padding 0;
     border: 1px solid transparent; /* change color according to background */
     padding: 25px;
     margin: 25px;
     text-align:justify;
     color:cornsilk;
-    background-color: black; /* change color according to background */
+    background-image: url(bg.jpg);
+    background-size: cover; /* change color according to background */
    
 }
 
